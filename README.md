@@ -46,21 +46,17 @@
 
 ### 📌 Projeto em destaque
 
-<a href="https://mossorourgente.com.br" target="_blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoFerr&repo=mossoro-urgente&theme=default" alt="Mossoró Urgente" />
-</a>
-
 **Mossoró Urgente** — Portal de notícias completo, desenvolvido de ponta a ponta: frontend, backend, banco de dados e infraestrutura (VPS + domínio próprio).
-
-<br clear="left"/>
+🔗 [mossorourgente.com.br](https://mossorourgente.com.br) &nbsp;|&nbsp; 🔒 Repositório privado — acesso mediante solicitação.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Foco de atuação
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=TiagoFerr&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFerr&layout=compact&theme=default&hide_border=true" />
+  <img src="https://img.shields.io/badge/Front--end-React%20%7C%20Next.js-1F3864?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Back--end-Node.js%20%7C%20Java-1F3864?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Infraestrutura-VPS%20%7C%20Deploy-1F3864?style=for-the-badge" />
 </p>
 
 <p align="left">
@@ -75,8 +71,4 @@
   <a href="https://www.linkedin.com/in/tiago-ferr-dev">LinkedIn</a> ·
   <a href="mailto:tiagosilvaff18@gmail.com">tiagosilvaff18@gmail.com</a> ·
   <a href="https://mossorourgente.com.br">mossorourgente.com.br</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TiagoFerr&style=flat-square&color=1F3864" alt="Visitor count" />
 </p>
