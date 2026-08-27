@@ -59,10 +59,6 @@
   <img src="https://img.shields.io/badge/Infraestrutura-VPS%20%7C%20Deploy-1F3864?style=for-the-badge" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoFerr&theme=default&hide_border=true" />
-</p>
-
 ---
 
 ### 📫 Como me encontrar
